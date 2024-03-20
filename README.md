@@ -12,7 +12,7 @@
 ## Contacto
 
 - 📧 Correo electrónico: alvaro.escumed@gmail.com
-- 💼 LinkedIn: [https://www.linkedin.com/in/alvaroescuderomedina/]
+- 💼 LinkedIn: https://www.linkedin.com/in/alvaroescuderomedina/
 - 🐦 Twitter: @Vareemart
 
 ¡Gracias por visitar mi perfil! Siéntete libre de explorar mis proyectos y no dudes en contactarme si quieres colaborar en algo o simplemente quieres charlar sobre desarrollo o diseño.

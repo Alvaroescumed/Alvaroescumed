@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Alvaro Escudero Medina
+# ¡Hola! 👋 Soy Alvaro Escudero
 
 ¡Bienvenido a mi perfil de GitHub! Soy un desarrollador full stack apasionado por la tecnología y el diseño. Además de escribir código, también me encanta ilustrar y crear arte digital. Aquí encontrarás una combinación de mis proyectos de desarrollo y algunas de mis ilustraciones.
 
